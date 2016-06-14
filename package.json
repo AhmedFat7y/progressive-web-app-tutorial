@@ -1,11 +1,11 @@
 {
-  "name": "simple-html-website",
+  "name": "progressive-web-app-tutorial",
   "version": "1.1.0",
-  "description": "Workflow using Grunt to build HTML websites with ease.",
-  "author": "Ahmad Alfy <ahmad@alfy.me>",
+  "description": "Progressive web app for official google documentation tutorial",
+  "author": "Ahmed Abdel-wahab <ahmed.abdel-wahab@robustastudio.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ahmadalfy/simple-html-project.git"
+    "url": "git@github.com:AhmedFat7y/progressive-web-app-tutorial.git"
   },
   "devDependencies": {
     "apache-server-configs": "^2.14.0",
